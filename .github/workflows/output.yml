@@ -1,4 +1,4 @@
-name: Test project
+name: Output event
 on: workflow_dispatch
 jobs:
   info:
